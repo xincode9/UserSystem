@@ -20,6 +20,7 @@ rails generate controller home index
 
 
 7:創建用戶管理系統表(注意 在資料庫中創建表時 要把表名創建為複數)
+
  create table users
 (
   id int primary key auto_increment,
