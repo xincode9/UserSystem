@@ -26,5 +26,6 @@ rails generate controller home index
  name varchar(30),
  password varchar(30)
 );
+
 8:使用scaffold產生users表對應的頁面支架
 rails generate scaffold user id:int name:varchar password:varchar
