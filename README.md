@@ -2,7 +2,9 @@ UserSystem
 ==========
 
 1.建立Project 注意- 該建立Project的資料庫是mysql
+
 rails new usersys -d=mysql
+
 -d：是在建立建立Project的時候指定所用的資料庫
 
 2.建立一個首頁(新增加一個controller)進入usersys項目
